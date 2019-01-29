@@ -1,0 +1,25 @@
+body {
+  background-image: url("http://www.toca-ch.com/data/walls/30/22213382.jpg");
+  background-size: cover;
+}
+
+.card {
+  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+p {
+  font-size: 23px;
+  font-family: 'Gruppo';
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}
+
+.borderi{
+  text-align: center;
+  border-style: solid;
+  border-color: silver;
+}
